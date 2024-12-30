@@ -53,5 +53,4 @@ terraform destroy
 - Security Group: Allows HTTP traffic (port 80).
 - EC2 Instance: Amazon Linux 2 with NGINX installed.
 
-## License 📜
-This project is licensed under the MIT License. See the LICENSE file for details.
+
